@@ -685,7 +685,7 @@ NEXT_PUBLIC_APP_URL=http://localhost:3000
 Step 4: Deploy to Vercel
 Bash
 npx vercel
-Import project settings, paste the Supabase environment variables into the Vercel Dashboard, and deploy! 🚀
+Import project settings, paste the Supabase environment variables into the Vercel Dashboard, and deploy!
 
 🛡️ 8. Security & Data Privacy (Data Privacy Act of 2012)
 Encryption at Rest: Sensitive identification documents in verification-docs are served only via temporary signed URLs.
@@ -735,7 +735,7 @@ Zero-Cost Deployment Guide: Step-by-step instructions for Supabase and Vercel.
 Gemini is AI and can make mistakes.
 
 Analyzing
-# 🛵🚗 Philippine Car & Motorcycle Rental Management System (PCRMS)
+# Philippine Car & Motorcycle Rental Management System (PCRMS)
 > **Lightweight, Zero-Cost Cloud Architecture for Local Mobility & Rental Operators**
 
 [![Next.js 15](https://img.shields.io/badge/Next.js-15.x-black?logo=next.js)](https://nextjs.org/)
